@@ -1,5 +1,5 @@
 
-<p align="center"> 🌷 <b><a href="https://www.brennanbrown.ca">Email</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://brennan.substack.com">Linkedin</a></b> 🌷 </p>
+<p align="center"> 🌷 <b><a href="pranavi_lakshminarayanan@brown.edu">Email</a> / <a href="https://drive.google.com/file/d/18ROMtJ0J-B-qZH-4hgJe0HZHt3W-hNBn/view?usp=sharing">Resume</a> / <a href="www.linkedin.com/in/pranavi-lakshminarayanan-b71127267">Linkedin</a></b> 🌷 </p>
 
 ## About Me 👋
 
@@ -20,13 +20,13 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 
 ## Technologies I'm Learning 🎒📚
 
-#### Software Languages:
+#### Software:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 
 
-#### Frontend Tools:
+#### Frontend Tools and Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
@@ -55,7 +55,7 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-%230078D4?logo=windows&style=flat-square&color=00a4ef)
-![MacOS](https://img.shields.io/badge/-MacOS-%%23000000?logo=apple&style=flat-square&color=808080)
+![MacOS](https://img.shields.io/badge/-MacOS-%23000000?logo=apple&style=flat-square&color=808080)
 ![Linux Badge](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux&style=flat-square&logoColor=000000)
 
 
