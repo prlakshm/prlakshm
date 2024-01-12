@@ -32,7 +32,7 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![HTML](https://img.shields.io/badge/-HTML-%23282C34?style=flat-square&logo=html5&lo&logoColor=ffffff&color=e34c26)
-![CSS](https://img.shields.io/badge/-CSS-%23282C34?style=flat-square&logo=css3&color=379AD6)
+![CSS](https://img.shields.io/badge/-CSS-%23282C34?style=flat-square&logo=css3&logoColor=379AD6)
 ![Vite](https://img.shields.io/badge/-Vite-%23282C34?style=flat-square&logo=vite&logoColor=ffffff&color=6a5acd)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 
