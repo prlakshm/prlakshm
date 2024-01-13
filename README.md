@@ -42,11 +42,16 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 #### Frameworks:
 
 ![Express](https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-%23282C34?style=flat-square&logo=apache-spark&logoColor=ffffff&color=E4682A)
 ![Django](https://img.shields.io/badge/-Django-%23282C34?style=flat-square&logo=django&color=14452f)
-![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 
 
+
+#### Frontend Tools:
+
+![Vite](https://img.shields.io/badge/-Vite-%23282C34?style=flat-square&logo=vite&logoColor=ffffff&color=6a5acd)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 
 
