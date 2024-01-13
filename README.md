@@ -3,7 +3,7 @@
 
 ## About Me 👋
 
-Hi! 😄 My name is Pranavi, and I'm currently sophomore at Brown University. I'm concentrating in Computer Science under the AI/ML and Design pathway. 
+Hi! 😄 My name is Pranavi, and I'm a current sophomore at Brown University. I'm concentrating in Computer Science under the AI/ML and Design pathway. 
 
 My interests include fullstack development (frontend or backend— I have no preference!) and data science.  I'm also a member of Rewriting the Code (RTC), an organization for increasing opportunities of women in computer science and engineering.
 
@@ -20,26 +20,26 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 
 ## Technologies I'm Learning 🎒📚
 
-#### Software:
+#### Programming Languages:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-
-
-#### Frontend Tools and Languages:
-
+<a href="#" style="display: inline-block; height: 21px; background-color: #007396; padding-left: 5px"><img src="/java_logo.png" alt="Java" height="20">![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+</a>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![HTML](https://img.shields.io/badge/-HTML-%23282C34?style=flat-square&logo=html5&lo&logoColor=ffffff&color=e34c26)
 ![CSS](https://img.shields.io/badge/-CSS-%23282C34?style=flat-square&logo=css3&logoColor=379AD6)
-![Vite](https://img.shields.io/badge/-Vite-%23282C34?style=flat-square&logo=vite&logoColor=ffffff&color=6a5acd)
-![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
+<a href="#" style="display: inline-block; height: 20px; background-color: #2C2D72; padding-left: 5px"><img src="/matlab_logo.png" alt="MATLAB" height="13" style="padding-bottom: 3px;">![MATLAB](https://img.shields.io/badge/-MATLAB-%232C2D72?style=flat-square)
+</a>
 
 
-#### Backend Databases:
+#### Databases and Cloud Services:
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+<a href="#" style="display: inline-flex; align-items: center; height: 20px; background-color: #282C34; padding-left: 5px">
+  <img src="/aws_logo.png" alt="AWS" height="16" width="18">
+  ![AWS](https://img.shields.io/badge/-AWS-%23282C34?style=flat-square)
+</a>
 
 
 #### Frameworks:
@@ -47,7 +47,13 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 ![Express](https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-%23282C34?style=flat-square&logo=apache-spark&logoColor=ffffff&color=E4682A)
 ![Django](https://img.shields.io/badge/-Django-%23282C34?style=flat-square&logo=django&color=14452f)
+![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 
+
+#### Frontend Tools:
+
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-%23282C34?style=flat-square&logo=vite&logoColor=ffffff&color=6a5acd)
 
 
 #### Editors and Operating Systems:
