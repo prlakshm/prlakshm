@@ -5,7 +5,7 @@
 
 Hi! 😄 My name is Pranavi, and I'm a current sophomore at Brown University. I'm concentrating in Computer Science under the AI/ML and Design pathway. 
 
-My interests include fullstack development (frontend or backend— I have no preference!) and data science.  I'm also a member of Rewriting the Code (RTC), an organization for increasing opportunities of women in computer science and engineering.
+My interests include fullstack development (frontend or backend— I have no preference!) and data science.  I'm also a member of Rewriting the Code (RTC), an organization that helps increase opportunities for women in computer science and engineering.
 
 I'm originally from Northern Virginia, so that's where I'll be in the summer! If you have any questions or want to chat, email me [here](mailto:pranavi_lakshminarayanan@brown.edu)!
 
@@ -39,19 +39,16 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 
 
 
-#### Frameworks:
+#### Tools:
 
 ![Express](https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-%23282C34?style=flat-square&logo=apache-spark&logoColor=ffffff&color=E4682A)
 ![Django](https://img.shields.io/badge/-Django-%23282C34?style=flat-square&logo=django&color=14452f)
-
-
-
-#### Frontend Tools:
-
 ![Vite](https://img.shields.io/badge/-Vite-%23282C34?style=flat-square&logo=vite&logoColor=ffffff&color=6a5acd)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![JUnit](https://img.shields.io/badge/-JUnit-%23007ACC?style=flat-square&logo=junit5&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-%23008eff?style=flat-square&logo=playwright&logoColor=white)
 
 
 
