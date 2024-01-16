@@ -1,0 +1,50 @@
+How to run Apache Spark app on AWS ec2 instance:
+
+1) Create Ubuntu ec2 instance
+2) Log into ec2 from command prompt using
+	 ssh -i <pem key file path> ubuntu@<ip addess>
+3) Build .jar file from Spark App (click File > Project Structures > Artifacts)
+4) Load .jar file to ubuntu ec2 instance form command prompt 
+	scp -i <pem key file path> <.jar file path> ubuntu@<ip address>:~/
+
+From ubuntu ec2 instance terminal:
+5) ls to check is .jar file is in directory
+6) Install java onto ubuntu and update to openjdk-21 (jdk Apache Spark app was made with)
+7) Run .jar file simply and check if working
+	java -jar repl.jar
+8) Make service folder using
+	mkdir service -- file path now /home/ubuntu/service
+8) Create service to run .jar file/app in background using
+	https://www.linkedin.com/pulse/how-run-java-jar-application-systemd-linux-service-dhaval-gajjar/
+		Script: 
+------------------------------------------------
+
+[Unit]
+Description=_______ service
+Requires=network.target remote-fs.target
+After=network.target remote-fs.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/service/
+ExecStart=/usr/bin/java -jar /home/ubuntu/service/____.jar
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
+
+------------------------------------------------
+		
+		Text editor commands: i to insert
+				      type accordingly, copy + paste allowed
+				      esc + :wq to exit
+9) After reloading deamon, move .jar file into service folder
+10) Start service and check status to see if running
+
+11) Repeat with as many .jar files as needed
+12) Assign elastic IP addess to instance to keep address same even if instance restarts
+
+
+Done!
