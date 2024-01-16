@@ -1,5 +1,5 @@
 
-<p align="center"> 🌷 <b><a href="mailto:pranavi_lakshminarayanan@brown.edu">Email</a> / <a href="https://drive.google.com/file/d/1vZPIprvK4rbIusHf4lfqKPaO1AIDB8md/view?usp=sharing">Resume</a> / <a href="www.linkedin.com/in/prlakshm">Linkedin</a></b> 🌷 </p>
+<p align="center"> 🌷 <b><a href="mailto:pranavi_lakshminarayanan@brown.edu">Email</a> / <a href="https://drive.google.com/file/d/1vZPIprvK4rbIusHf4lfqKPaO1AIDB8md/view?usp=sharing">Resume</a> / <a href="https://www.linkedin.com/in/prlakshm/">Linkedin</a></b> 🌷 </p>
 
 ## About Me 👋
 
