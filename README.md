@@ -5,7 +5,7 @@
 
 Hi! 😄 My name is Pranavi, and I'm a current sophomore at Brown University. I'm concentrating in Computer Science under the AI/ML and Design pathway. 
 
-My interests include fullstack development (frontend or backend— I have no preference!) and data science.  I'm also a member of Rewriting the Code (RTC), an organization that helps increase opportunities for women in computer science and engineering.
+My interests include fullstack development (frontend or backend— I'm interested in both!) and data science.  I'm also a member of Rewriting the Code (RTC), an organization that helps increase opportunities for women in computer science and engineering.
 
 I'm originally from Northern Virginia, so that's where I'll be in the summer! If you have any questions or want to chat, email me [here](mailto:pranavi_lakshminarayanan@brown.edu)!
 
