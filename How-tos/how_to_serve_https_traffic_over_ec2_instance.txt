@@ -1,0 +1,7 @@
+Use this helpful article!
+
+https://dev.to/mbadola/serving-ec2-traffic-over-https-4mi7
+
+NOTE: You can use Let's Encrypt OR AWS Certificate Manager to obtain a SSL certificate for your custom domain. Then, you can use nginx or an AWS load balancer to forward https traffic from the domain to the ec2 instance. If you use both, the server will be overloaded and you get a 503 error. Let's Encrypt + nginx is what I primarily use. 
+
+If you ever need to disable the AWS load balancer from forwarding https traffic to the ec2 instace, just delete the load balancer created. If you need to disable it for nginx, stop the nginx service. 
