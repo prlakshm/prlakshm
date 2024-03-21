@@ -1,11 +1,11 @@
 
-<p align="center"> 🌷 <b><a href="mailto:pranavi_lakshminarayanan@brown.edu">Email</a> / <a href="https://drive.google.com/file/d/1vZPIprvK4rbIusHf4lfqKPaO1AIDB8md/view?usp=sharing">Resume</a> / <a href="https://www.linkedin.com/in/prlakshm/">Linkedin</a></b> 🌷 </p>
+<p align="center"> 🌷 <b><a href="mailto:pranavi_lakshminarayanan@brown.edu">Email</a> / <a href="https://drive.google.com/file/d/1-esCSKYNwNM5LXcKbpi0YXJqFOlh2SfK/view?usp=sharing">Resume</a> / <a href="https://www.linkedin.com/in/prlakshm/">Linkedin</a></b> 🌷 </p>
 
 ## About Me 👋
 
 Hi! 😄 My name is Pranavi, and I'm a current sophomore at Brown University. I'm concentrating in Computer Science under the AI/ML and Design pathway. 
 
-My interests include full stack development (frontend or backend— I'm interested in both!) and data science.  I'm also a member of Rewriting the Code (RTC), an organization that helps increase opportunities for women in computer science and engineering.
+My interests include full stack development (frontend or backend— I'm interested in both!) and AI-assisted design. I'm a member of Full Stack @ Brown, a club that builds websites for student and research groups on campus. I'm also a member of Rewriting the Code, an organization that helps increase opportunities for women in computer science and engineering. 
 
 I'm originally from Northern Virginia, so that's where I'll be in the summer! If you have any questions or want to chat, email me [here](mailto:pranavi_lakshminarayanan@brown.edu)!
 
