@@ -5,7 +5,7 @@
 
 Hi! 😄 My name is Pranavi, and I'm a current sophomore at Brown University. I'm concentrating in Computer Science under the AI/ML and Design pathway. 
 
-My interests include full stack development (frontend or backend— I'm interested in both!) and AI-assisted design. I'm a member of Full Stack @ Brown, a club that builds websites for student and research groups on campus. I'm also a member of Rewriting the Code, an organization that helps increase opportunities for women in computer science and engineering. 
+My interests include full stack development and AI-assisted design. I'm a member of Full Stack @ Brown, a club that builds websites for student and research groups on campus. I'm also a member of Rewriting the Code, an organization that helps increase opportunities for women in computer science and engineering. 
 
 I'm originally from Northern Virginia, so that's where I'll be in the summer! If you have any questions or want to chat, email me [here](mailto:pranavi_lakshminarayanan@brown.edu)!
 
@@ -59,4 +59,9 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
 
+
+#### Design Apps:
+
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%233C327B?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-%23ff7262?style=flat-square&logo=figma&logoColor=ffffff)
 
