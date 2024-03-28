@@ -9,10 +9,10 @@ My interests include full stack development and AI-assisted design. I'm a member
 
 I'm originally from Northern Virginia, so that's where I'll be in the summer! If you have any questions or want to chat, email me [here](mailto:pranavi_lakshminarayanan@brown.edu)!
 
-**Favorite project I've worked on so far:** 
+**Favorite projects I've worked on so far:** 
 
 <a href="https://artistscornerpvd.github.io">Artist's Corner PVD</a> | <a href="https://github.com/artistscornerpvd/artistscornerpvd.github.io">Repo Link</a> (I own this github account too)
-
+<a href="https://pbj-time.vercel.app/">PB&J Time</a> | <a href="https://github.com/prlakshm/pbj-time">Repo Link</a> 
 
 
 <!-- More info on badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
