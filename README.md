@@ -11,7 +11,7 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 
 **Favorite projects I've worked on so far:** 
 
-<a href="https://artistscornerpvd.github.io">Artist's Corner PVD</a> | <a href="https://github.com/artistscornerpvd/artistscornerpvd.github.io">Repo Link</a> (I own this github account too)
+<a href="https://artistscornerpvd.github.io">Artist's Corner PVD</a> | <a href="https://github.com/artistscornerpvd/artistscornerpvd.github.io">Repo Link</a> (I own this github account too)  
 <a href="https://pbj-time.vercel.app/">PB&J Time</a> | <a href="https://github.com/prlakshm/pbj-time">Repo Link</a> 
 
 
