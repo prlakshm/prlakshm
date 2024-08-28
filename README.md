@@ -28,7 +28,6 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![HTML](https://img.shields.io/badge/-HTML-%23282C34?style=flat-square&logo=html5&lo&logoColor=ffffff&color=e34c26)
 ![CSS](https://img.shields.io/badge/-CSS-%23282C34?style=flat-square&logo=css3&logoColor=379AD6)
-![MATLAB](https://img.shields.io/badge/-MATLAB-%232C2D72?style=flat-square)
 
 
 
@@ -65,8 +64,9 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 #### Design Apps:
 
 ![Figma](https://img.shields.io/badge/-Figma-%23ff7262?style=flat-square&logo=figma&logoColor=ffffff)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%233C327B?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%233d0808?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-%239999FF?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
 ![Blender](https://img.shields.io/badge/-Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=ffffff)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%233C327B?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%23531111?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-%239999FF?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
+
 
