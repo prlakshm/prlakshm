@@ -1,5 +1,5 @@
 
-<p align="center"> 🌷 <b><a target="blank" href="https://pranaviln.com/">Portfolio</a> / <a href="mailto:pranaviram2@gmail.com">Email</a> / <a target="blank" href="/Docs/Pranavi Lakshminarayanan Resume 2026.pdf">Resume</a> / <a target="blank" href="https://www.linkedin.com/in/prlakshm/">LinkedIn</a></b> 🌷 </p>
+<p align="center"> 🌷 <b><a target="_blank" href="https://pranaviln.com/">Portfolio</a> / <a href="mailto:pranaviram2@gmail.com">Email</a> / <a target="_blank" href="/Docs/Pranavi Lakshminarayanan Resume 2026.pdf">Resume</a> / <a target="_blank" href="https://www.linkedin.com/in/prlakshm/">LinkedIn</a></b> 🌷 </p>
 
 ## About Me 👋
 
@@ -11,7 +11,7 @@ I'm originally from Northern Virginia, so that's where I'll be in the summer! If
 
 **Favorite project I've worked on:** 
  
-<a target="blank" href="https://github.com/prlakshm/readibly">Readibly</a>  - A Legal Summarization Tool Chrome Extension, vibe coded with Claude Code
+<a target="_blank" href="https://github.com/prlakshm/readibly">Readibly</a>  - A Legal Summarization Tool Chrome Extension, vibe coded with Claude Code
 
 
 <!-- More info on badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
