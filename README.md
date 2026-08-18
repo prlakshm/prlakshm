@@ -1,5 +1,5 @@
 
-<p align="center"> 🌷 <b><a href="https://pranaviln.com/">Portfolio</a> / <a href="mailto:pranaviram2@gmail.com">Email</a> / <a href="/Docs/Pranavi Lakshminarayanan Resume 2026.pdf">Resume</a> / <a href="https://www.linkedin.com/in/prlakshm/">LinkedIn</a></b> 🌷 </p>
+<p align="center"> 🌷 <b><a href="https://pranaviram.com/">Portfolio</a> / <a href="mailto:pranaviram2@gmail.com">Email</a> / <a href="/Docs/Pranavi Lakshminarayanan Resume 2026.pdf">Resume</a> / <a href="https://www.linkedin.com/in/pranaviram/">LinkedIn</a></b> 🌷 </p>
 
 ## About Me 👋
 
