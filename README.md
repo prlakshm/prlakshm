@@ -9,10 +9,6 @@ My interests include product design and design engineering. I'm a member of Rewr
 
 I'm originally from Northern Virginia, so that's where I'll be in the summer! If you have any questions or want to chat, email me [here](mailto:pranaviram2@gmail.com)! 💌
 
-**Favorite project I've worked on:** 
- 
-<a href="https://github.com/prlakshm/readibly">Readibly</a>  - A Legal Summarization Tool Chrome Extension, vibe coded with Claude Code
-
 
 <!-- More info on badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
 <!-- SimpleIcons: https://simpleicons.org/ -->
